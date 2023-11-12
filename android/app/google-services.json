@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "270692063572",
+    "project_id": "quote-b17bf",
+    "storage_bucket": "quote-b17bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270692063572:android:6de14181ec303a2776d0c1",
+        "android_client_info": {
+          "package_name": "com.app.qouteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270692063572-esjvucu2jpftb3r32as210sf028k5vu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.qouteapp",
+            "certificate_hash": "c10d830282e2f0e978835fa9c23caa64d538186c"
+          }
+        },
+        {
+          "client_id": "270692063572-a0hrmpfjackokg08t32gsbbof42859nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDLwst2BzUDYJ0VS-R6wG7Nt80skZQXc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270692063572-a0hrmpfjackokg08t32gsbbof42859nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270692063572-e9qj52dg51drqrkenpicig2gobffmfgr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qouteapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270692063572:android:1e286fc4b61d73ab76d0c1",
+        "android_client_info": {
+          "package_name": "com.example.qouteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270692063572-04hncbrr1vnjs9f5v42hl3de7p2njvk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qouteapp",
+            "certificate_hash": "c10d830282e2f0e978835fa9c23caa64d538186c"
+          }
+        },
+        {
+          "client_id": "270692063572-a0hrmpfjackokg08t32gsbbof42859nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDLwst2BzUDYJ0VS-R6wG7Nt80skZQXc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270692063572-a0hrmpfjackokg08t32gsbbof42859nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270692063572-e9qj52dg51drqrkenpicig2gobffmfgr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qouteapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
