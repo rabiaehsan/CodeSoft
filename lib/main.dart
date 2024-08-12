@@ -30,18 +30,18 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
-      child: GetMaterialApp(
+        child: GetMaterialApp(
         initialBinding: BindingsBuilder(() {
           Get.put(AuthController(), permanent: true);
         }),
         debugShowCheckedModeBanner: false,
-        title: 'Quotes App',
+        title: 'Quotation App',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.black38),
           useMaterial3: true,
         ),
         getPages: AppPages.routes,
-        initialRoute: Routes.HOME,
+        initialRoute: Routes.SPLASH,
       ),
     );
   }
